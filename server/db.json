@@ -1,0 +1,80 @@
+{
+  "contacts": [
+    {
+      "id": "002",
+      "name": "Izuchukwu Wisdom",
+      "company": "Nigeria Stock Exchange",
+      "email": "wisdom@gmail.com",
+      "title": "Human Resource Manager",
+      "mobile": "08078324572",
+      "photo": "/assets/contact2.png",
+      "groupId": "5"
+    },
+    {
+      "id": "003",
+      "name": "Onyeka Ezeamama",
+      "company": "Tastee Fried Chicken",
+      "email": "onyeka@gmail.com",
+      "title": "Head of Brand and Communication",
+      "mobile": "08062864943",
+      "photo": "/assets/user.png",
+      "groupId": "3"
+    },
+    {
+      "id": "004",
+      "name": "Precious",
+      "company": "Sterling Bank",
+      "email": "presh@gmail.com",
+      "title": "Marketer",
+      "mobile": "08135345081",
+      "photo": "/assets/woman.png",
+      "groupId": "2"
+    },
+    {
+      "id": "005",
+      "name": "AbdulQuadri Sanni",
+      "company": "Fintrak Software Company Limited",
+      "email": "sanni@gmail.com",
+      "title": "QA Tester",
+      "mobile": "09057699698",
+      "photo": "/assets/work.jpg",
+      "groupId": "1"
+    },
+    {
+      "name": "Onyedika Stephen Ezeamama",
+      "email": "Stehen894@gmail.com",
+      "mobile": "+2348139386823",
+      "photo": "/assets/contact1.png",
+      "company": "Fintrak Software",
+      "title": "Software Developer",
+      "groupId": "5",
+      "id": "GfMkUiD"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Friend"
+    },
+    {
+      "id": "3",
+      "name": "Family"
+    },
+    {
+      "id": "4",
+      "name": "Service"
+    },
+    {
+      "id": "5",
+      "name": "Community"
+    },
+    {
+      "id": "6",
+      "name": "Social"
+    }
+  ]
+}

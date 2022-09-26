@@ -1,0 +1,16 @@
+{
+  "name": "contactapi",
+  "version": "1.0.0",
+  "description": "rest api for contact manager application",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server --watch db.json -p 9000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "sqlite3": "^5.1.1"
+  }
+}
